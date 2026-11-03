@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Vikas Drishti">
+  <defs>
+    <linearGradient id="vdbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#17406F"/><stop offset="1" stop-color="#0B2545"/>
+    </linearGradient>
+    <linearGradient id="vdpin" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5EEAD4"/><stop offset="1" stop-color="#14A3A8"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#vdbg)"/>
+  <path d="M32 9C23 9 16.5 15.6 16.5 24c0 10 11.5 21 15.5 27.5C36 45 47.5 34 47.5 24 47.5 15.6 41 9 32 9Z" fill="url(#vdpin)"/>
+  <circle cx="32" cy="24" r="9.2" fill="#0B2545"/>
+  <circle cx="32" cy="24" r="5.4" fill="#fff"/>
+  <circle cx="32" cy="24" r="2.4" fill="#0E7C86"/>
+  <rect x="14" y="55" width="36" height="3" rx="1.5" fill="#F59E0B"/>
+</svg>
